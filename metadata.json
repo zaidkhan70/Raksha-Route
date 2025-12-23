@@ -1,0 +1,8 @@
+{
+  "name": "Raksha Route",
+  "description": "A proactive safety navigation and assistance platform for women and children with real-time route intelligence and AI support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
